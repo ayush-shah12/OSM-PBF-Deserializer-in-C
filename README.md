@@ -2,7 +2,7 @@
 
 A lightweight command-line tool written in **C** for parsing and querying **OpenStreetMap (OSM) Protocol Buffer (PBF) files** — built entirely from scratch with **no external parsing libraries**. This project implements a protobuf deserializer that provides direct, efficient access to OSM map data in its compact binary format. The program can efficiently **deserialize** and query **any** valid PBF file.
 
-> **Note:** This repository serves as a showcase for this project. The complete implementation is maintained in a separate private repository.
+> **Note:** This repository serves as a showcase for this project. The complete implementation is maintained in a separate private repository for academic purposes.
 
 ## Why Protocol Buffers?
 
